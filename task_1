@@ -1,0 +1,4 @@
+ed = int(input('Количество единиц: '))
+des = int(input('Количество десятков: '))
+sot = int(input('Количество сотен: '))
+print (sot, des, ed, sep = '')
